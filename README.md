@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm [Zaryab Ali]!
 
-<!--
-**zaryabprg-cell/zaryabprg-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring developer building simple Python projects.
 
-Here are some ideas to get you started:
+##  I'm learning
+- Python basics
+- Git & GitHub
+- Web (HTML, CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My Projects
+- [hello-world](https://github.com/zaryabprg-cell/hello-world)
+- [python-mini-projects](https://github.com/zaryabprg-cell/python-mini-projects)
+
+##  Goals
+- Build more small projects
+- Learn web tools
+- Grow as a dev, one step at a time!
