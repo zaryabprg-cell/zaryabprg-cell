@@ -19,3 +19,5 @@ Aspiring developer building simple Python projects.
 ## 📊 GitHub Stats
 
 ![Zaryab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaryabprg-cell&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaryabprg-cell&layout=compact)
