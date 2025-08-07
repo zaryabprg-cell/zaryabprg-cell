@@ -15,3 +15,7 @@ Aspiring developer building simple Python projects.
 - Build more small projects
 - Learn web tools
 - Grow as a dev, one step at a time!
+
+## 📊 GitHub Stats
+
+![Zaryab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaryabprg-cell&show_icons=true&theme=radical)
