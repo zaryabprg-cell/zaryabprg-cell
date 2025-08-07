@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Zaryab Ali]!
+# 👋 Hi, I'm Zaryab Ali!
 
 Aspiring developer building simple Python projects.
 
