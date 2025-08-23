@@ -45,6 +45,6 @@
 ## 🌐 Connect
 
 📍 Based in: Pakistan  
-📧 Reach me: _[optional email or Discord]_
+📧 Reach me: shady.feat  ↗️ Discord
 
 Thanks for checking out my profile! ⭐
